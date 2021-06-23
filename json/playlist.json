@@ -1148,6 +1148,11 @@
       "cid": 4,
       "name": "Zoo Moo",
       "stream_url": "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "astro ricky",
+      "stream_url": "http://iptv.tvmalaysia.cc:80/kl570/kl570/6730"
     }
   ]
 }
